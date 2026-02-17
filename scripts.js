@@ -72,7 +72,7 @@ function checkMatch (){
         flippedCards = [];
         if(matchedCards.length === cards.length){
             setTimeout(() =>{
-                alert("🥳🥳 Awwww ,From now onwards We are love birds luv youu!Happy valentine❤️")
+                alert("You’re not just someone I like,You’re the reason my heart beats fast.Not just for a moment,But for every tomorrow I see.Will you be my always? 💫")
             }, 600);
         }
     }else{
